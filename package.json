@@ -14,7 +14,8 @@
     "@material-tailwind/react": "^2.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-icons": "^4.9.0"
+    "react-icons": "^4.9.0",
+    "solid": "link:@heroicons/react/24/solid"
   },
   "devDependencies": {
     "@types/react": "^18.0.37",
